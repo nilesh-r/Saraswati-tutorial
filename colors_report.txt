@@ -1,0 +1,213 @@
+Found 212 color occurrences:
+.\frontend\src\App.jsx:184 -> ['purple'] -> <div className="w-8 h-8 rounded-full border-2 border-purple-600 border-t-transparent animate-spin" />
+.\frontend\src\index.css:94 -> ['#1e293b'] -> background-color: #1e293b;
+.\frontend\src\index.css:95 -> ['#020617'] -> border: 2px solid #020617;
+.\frontend\src\index.css:105 -> ['#334155'] -> background-color: #334155;
+.\frontend\src\index.css:109 -> ['#94a3b8'] -> background-color: #94a3b8;
+.\frontend\src\components\AIChatbot.jsx:85 -> ['indigo', 'purple'] -> <div className="bg-gradient-to-r from-purple-900/60 to-indigo-900/60 px-6 py-4 flex items-center justify-between border-b border-slate-800">
+.\frontend\src\components\AIChatbot.jsx:87 -> ['indigo', 'purple'] -> <div className="bg-gradient-to-tr from-purple-500 to-indigo-400 p-2 rounded-xl text-white animate-pulse">
+.\frontend\src\components\AIChatbot.jsx:92 -> ['purple'] -> <p className="text-xs text-purple-300">Parent Guidance & Study Planners</p>
+.\frontend\src\components\AIChatbot.jsx:95 -> ['teal'] -> <div className="flex items-center gap-1 bg-slate-950/60 px-2.5 py-1 rounded-full border border-slate-800 text-[10px] text-teal-400">
+.\frontend\src\components\AIChatbot.jsx:96 -> ['teal'] -> <Sparkles className="w-3 h-3 text-teal-400 animate-spin" />
+.\frontend\src\components\AIChatbot.jsx:113 -> ['teal'] -> ? 'bg-slate-800 border-slate-700 text-teal-400'
+.\frontend\src\components\AIChatbot.jsx:114 -> ['purple'] -> : 'bg-purple-950/80 border-purple-800 text-purple-400'
+.\frontend\src\components\AIChatbot.jsx:123 -> ['indigo'] -> ? 'bg-indigo-600 text-white rounded-tr-none'
+.\frontend\src\components\AIChatbot.jsx:132 -> ['purple'] -> Engine: <span className="text-purple-400 capitalize">{msg.mode.replace('-', ' ')}</span>
+.\frontend\src\components\AIChatbot.jsx:141 -> ['purple'] -> <div className="w-8 h-8 rounded-full bg-purple-950/80 border border-purple-800 flex items-center justify-center text-purple-400 animate-spin">
+.\frontend\src\components\AIChatbot.jsx:161 -> ['purple'] -> className="text-xs px-3 py-1.5 bg-slate-800/80 hover:bg-purple-950/30 hover:text-purple-300 text-slate-300 rounded-full border border-slate-800 hover:border-purple-800/60 transition-all text-left"
+.\frontend\src\components\AIChatbot.jsx:178 -> ['purple'] -> className="flex-1 bg-slate-950 border border-slate-800 rounded-xl px-4 py-2.5 text-sm text-slate-100 placeholder-slate-500 focus:outline-none focus:border-purple-500 transition-colors"
+.\frontend\src\components\AIChatbot.jsx:184 -> ['indigo', 'purple'] -> className="p-2.5 bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 text-white rounded-xl disabled:opacity-40 disabled:cursor-not-allowed transition-all shadow-md shadow-indigo-650/15"
+.\frontend\src\components\Navbar.jsx:81 -> ['amber'] -> {theme === 'dark' ? <Sun className="w-3.5 h-3.5 text-amber-500" /> : <Moon className="w-3.5 h-3.5" />}
+.\frontend\src\components\Navbar.jsx:102 -> ['red'] -> className="p-2 bg-white/30 dark:bg-black/30 hover:bg-red-500/10 dark:hover:bg-red-500/20 hover:text-red-600 dark:hover:text-red-400 text-zinc-500 dark:text-zinc-400 rounded-xl transition-colors border border-zinc-200 dark:border-zinc-800 hover:border-red-500/30 dark:hover:border-red-500/30"
+.\frontend\src\pages\BookTutor.jsx:53 -> ['purple'] -> <div className="absolute top-0 left-1/2 -translate-x-1/2 w-48 h-48 bg-purple-500/10 dark:bg-purple-600/10 rounded-full blur-[80px] pointer-events-none" />
+.\frontend\src\pages\BookTutor.jsx:62 -> ['teal'] -> <div className="bg-teal-50 dark:bg-teal-950/40 border border-teal-200 dark:border-teal-900/60 p-4 rounded-xl text-teal-700 dark:text-teal-400 text-sm">
+.\frontend\src\pages\BookTutor.jsx:67 -> ['purple'] -> className="px-6 py-3 bg-purple-600 hover:bg-purple-500 dark:bg-purple-600 dark:hover:bg-purple-500 text-white font-bold text-xs rounded-xl shadow-md"
+.\frontend\src\pages\BookTutor.jsx:75 -> ['red'] -> <div className="bg-red-50 dark:bg-red-950/40 border border-red-200 dark:border-red-900/60 p-3.5 rounded-xl flex gap-2.5 text-red-700 dark:text-red-400 text-xs">
+.\frontend\src\pages\BookTutor.jsx:76 -> ['red'] -> <AlertCircle className="w-4 h-4 shrink-0 text-red-600 dark:text-red-400" />
+.\frontend\src\pages\BookTutor.jsx:90 -> ['purple'] -> className="w-full bg-slate-50 dark:bg-slate-950/80 border border-slate-200 dark:border-slate-800 focus:border-purple-600 dark:focus:border-purple-600 rounded-xl pl-10 pr-4 py-2.5 text-sm text-slate-800 dark:text-slate-100 placeholder-slate-400 dark:placeholder-slate-500 focus:outline-none"
+.\frontend\src\pages\BookTutor.jsx:102 -> ['purple'] -> className="w-full bg-slate-50 dark:bg-slate-950/80 border border-slate-200 dark:border-slate-800 focus:border-purple-600 dark:focus:border-purple-600 rounded-xl pl-10 pr-4 py-2.5 text-sm text-slate-800 dark:text-slate-100 focus:outline-none"
+.\frontend\src\pages\BookTutor.jsx:126 -> ['purple'] -> className="w-full bg-slate-50 dark:bg-slate-950/80 border border-slate-200 dark:border-slate-800 focus:border-purple-600 dark:focus:border-purple-600 rounded-xl pl-10 pr-4 py-2.5 text-sm text-slate-800 dark:text-slate-100 focus:outline-none"
+.\frontend\src\pages\BookTutor.jsx:139 -> ['purple'] -> className="w-full bg-slate-50 dark:bg-slate-950/80 border border-slate-200 dark:border-slate-800 focus:border-purple-600 dark:focus:border-purple-600 rounded-xl pl-10 pr-4 py-2.5 text-sm text-slate-800 dark:text-slate-100 focus:outline-none"
+.\frontend\src\pages\BookTutor.jsx:152 -> ['purple'] -> className="w-full bg-slate-50 dark:bg-slate-950/80 border border-slate-200 dark:border-slate-800 focus:border-purple-600 dark:focus:border-purple-600 rounded-xl px-4 py-2.5 text-sm text-slate-800 dark:text-slate-100 placeholder-slate-400 dark:placeholder-slate-500 focus:outline-none"
+.\frontend\src\pages\BookTutor.jsx:162 -> ['purple'] -> className="w-full h-24 bg-slate-50 dark:bg-slate-950/80 border border-slate-200 dark:border-slate-800 focus:border-purple-600 dark:focus:border-purple-600 rounded-xl px-4 py-2.5 text-sm text-slate-800 dark:text-slate-100 placeholder-slate-400 dark:placeholder-slate-500 focus:outline-none resize-none"
+.\frontend\src\pages\BookTutor.jsx:169 -> ['purple'] -> className="w-full mt-6 py-3 bg-purple-600 hover:bg-purple-500 dark:bg-purple-600 dark:hover:bg-purple-500 text-white font-bold text-xs rounded-xl shadow-lg transition-all disabled:opacity-50"
+.\frontend\src\pages\LandingPage.jsx:226 -> ['purple'] -> <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[600px] h-[600px] bg-purple-500/10 dark:bg-purple-600/5 rounded-full blur-[120px] pointer-events-none" />
+.\frontend\src\pages\LandingPage.jsx:270 -> ['indigo', 'purple'] -> <div className="absolute -inset-1 bg-gradient-to-tr from-purple-600 to-indigo-600 rounded-3xl blur opacity-20" />
+.\frontend\src\pages\LandingPage.jsx:315 -> ['purple', '#7c3aed'] -> className="glass-card overflow-hidden rounded-2xl flex flex-col hover:border-[#7c3aed] dark:hover:border-purple-500 shadow-sm hover:shadow-lg transition-all group text-left"
+.\frontend\src\pages\LandingPage.jsx:326 -> ['#7c3aed'] -> <span className="font-extrabold text-xs sm:text-sm text-zinc-900 dark:text-zinc-100 group-hover:text-[#7c3aed] transition-colors">{sub.name}</span>
+.\frontend\src\pages\LandingPage.jsx:335 -> ['purple', '#f3e8ff'] -> <section id="services" className="bg-[#f3e8ff]/40 dark:bg-purple-950/5 py-16 border-y border-purple-100 dark:border-purple-950/20">
+.\frontend\src\pages\LandingPage.jsx:411 -> ['indigo', 'purple'] -> <div className="absolute -inset-1 bg-gradient-to-tr from-purple-600 to-indigo-600 rounded-3xl blur opacity-20" />
+.\frontend\src\pages\LandingPage.jsx:469 -> ['amber'] -> <div className="flex items-center justify-center gap-1 text-[10px] font-extrabold text-amber-500">
+.\frontend\src\pages\LandingPage.jsx:470 -> ['amber'] -> <Star className="w-3.5 h-3.5 fill-amber-500" />
+.\frontend\src\pages\LandingPage.jsx:544 -> ['teal'] -> <span className="w-2 h-2 rounded-full bg-teal-500 animate-ping" />
+.\frontend\src\pages\LandingPage.jsx:644 -> ['teal'] -> <div className="bg-teal-500/10 border border-teal-500/30 p-4 rounded-xl text-teal-700 dark:text-teal-400 text-xs">
+.\frontend\src\pages\LandingPage.jsx:650 -> ['red'] -> <div className="bg-red-500/10 border border-red-500/30 p-4 rounded-xl text-red-700 dark:text-red-400 text-xs">
+.\frontend\src\pages\LandingPage.jsx:754 -> ['amber'] -> <div className="flex items-center gap-1 text-[10px] font-extrabold text-amber-500">
+.\frontend\src\pages\LandingPage.jsx:755 -> ['amber'] -> <Star className="w-3.5 h-3.5 fill-amber-500" />
+.\frontend\src\pages\Login.jsx:67 -> ['red'] -> <div className="mb-6 bg-red-500/10 border border-red-500/30 p-3.5 rounded-xl flex gap-2.5 text-red-700 dark:text-red-400 text-xs">
+.\frontend\src\pages\Login.jsx:68 -> ['red'] -> <AlertCircle className="w-4 h-4 shrink-0 text-red-600 dark:text-red-400" />
+.\frontend\src\pages\Login.jsx:105 -> ['#7c3aed', '#6d28d9'] -> className="w-full mt-6 py-2.5 bg-[#7c3aed] hover:bg-[#6d28d9] text-white font-semibold text-sm rounded-xl shadow-md flex items-center justify-center gap-2 transition-all disabled:opacity-50"
+.\frontend\src\pages\Login.jsx:114 -> ['amber'] -> <div className="flex items-center gap-1.5 text-xs text-amber-600 dark:text-amber-400 font-semibold mb-3">
+.\frontend\src\pages\Login.jsx:115 -> ['amber'] -> <ShieldAlert className="w-4 h-4 text-amber-500 dark:text-amber-400 animate-pulse" />
+.\frontend\src\pages\Login.jsx:126 -> ['purple', '#7c3aed'] -> <span className="font-extrabold text-[#7c3aed] dark:text-purple-400 block mb-0.5">{acc.role}</span>
+.\frontend\src\pages\Login.jsx:137 -> ['#7c3aed'] -> className="text-[#7c3aed] hover:underline font-semibold"
+.\frontend\src\pages\Register.jsx:56 -> ['red'] -> <div className="mb-6 bg-red-500/10 border border-red-500/30 p-3.5 rounded-xl flex gap-2.5 text-red-700 dark:text-red-400 text-xs">
+.\frontend\src\pages\Register.jsx:57 -> ['red'] -> <AlertCircle className="w-4 h-4 shrink-0 text-red-600 dark:text-red-400" />
+.\frontend\src\pages\Register.jsx:123 -> ['purple', '#f3e8ff', '#7c3aed'] -> <div className="bg-[#f3e8ff] dark:bg-purple-950/30 border border-purple-200 dark:border-purple-900/40 p-3.5 rounded-xl text-[#7c3aed] dark:text-purple-300 text-xs leading-relaxed">
+.\frontend\src\pages\Register.jsx:131 -> ['#7c3aed', '#6d28d9'] -> className="w-full mt-6 py-2.5 bg-[#7c3aed] hover:bg-[#6d28d9] text-white font-semibold text-sm rounded-xl shadow-md flex items-center justify-center gap-2 transition-all disabled:opacity-50"
+.\frontend\src\pages\Register.jsx:142 -> ['#7c3aed'] -> className="text-[#7c3aed] hover:underline font-semibold"
+.\frontend\src\pages\TutorDetails.jsx:34 -> ['red'] -> <div className="max-w-4xl mx-auto p-12 text-center text-red-500 dark:text-red-400 flex gap-2 justify-center items-center">
+.\frontend\src\pages\TutorDetails.jsx:45 -> ['purple'] -> <div className="absolute top-0 right-0 w-64 h-64 bg-purple-500/5 dark:bg-purple-600/5 rounded-full blur-[100px] pointer-events-none" />
+.\frontend\src\pages\TutorDetails.jsx:48 -> ['indigo', 'purple'] -> <div className="w-24 h-24 rounded-2xl bg-gradient-to-tr from-purple-600 to-indigo-600 flex items-center justify-center text-white text-3xl font-extrabold shadow-lg shrink-0">
+.\frontend\src\pages\TutorDetails.jsx:56 -> ['teal'] -> <span className="flex items-center gap-1 text-[10px] bg-teal-100 dark:bg-teal-950 text-teal-700 dark:text-teal-400 border border-teal-200 dark:border-teal-900/60 px-3 py-1 rounded-full font-bold uppercase tracking-wider">
+.\frontend\src\pages\TutorDetails.jsx:63 -> ['purple'] -> <p className="text-purple-600 dark:text-purple-300 font-bold text-sm">{tutor.qualification}</p>
+.\frontend\src\pages\TutorDetails.jsx:80 -> ['amber'] -> <span className="text-amber-500 dark:text-amber-400 font-bold text-sm flex items-center gap-1">
+.\frontend\src\pages\TutorDetails.jsx:81 -> ['amber'] -> <Star className="w-4 h-4 fill-amber-500 dark:fill-amber-400" />
+.\frontend\src\pages\TutorDetails.jsx:96 -> ['purple'] -> className="px-6 py-3 bg-purple-600 hover:bg-purple-500 dark:bg-purple-600 dark:hover:bg-purple-500 text-white font-bold text-xs rounded-xl shadow-md transition-all"
+.\frontend\src\pages\TutorDetails.jsx:113 -> ['purple'] -> <span key={i} className="text-xs bg-slate-50 dark:bg-slate-950 px-3 py-1.5 rounded-lg text-purple-600 dark:text-purple-300 border border-slate-200 dark:border-slate-800 font-bold">{sub}</span>
+.\frontend\src\pages\TutorDetails.jsx:122 -> ['indigo'] -> <span key={i} className="text-xs bg-slate-50 dark:bg-slate-950 px-3 py-1.5 rounded-lg text-indigo-600 dark:text-indigo-300 border border-slate-200 dark:border-slate-800 font-bold">{cl}</span>
+.\frontend\src\pages\TutorDetails.jsx:131 -> ['teal'] -> <span key={i} className="text-xs bg-slate-50 dark:bg-slate-950 px-3 py-1.5 rounded-lg text-teal-700 dark:text-teal-300 border border-slate-200 dark:border-slate-800 font-bold flex items-center gap-1">
+.\frontend\src\pages\TutorDetails.jsx:161 -> ['amber'] -> <div className="flex items-center gap-0.5 text-amber-500 dark:text-amber-400">
+.\frontend\src\pages\TutorDetails.jsx:162 -> ['amber'] -> <Star className="w-3.5 h-3.5 fill-amber-500 dark:fill-amber-400" />
+.\frontend\src\pages\TutorSearch.jsx:53 -> ['purple'] -> <SlidersHorizontal className="w-4 h-4 text-purple-600 dark:text-purple-400" />
+.\frontend\src\pages\TutorSearch.jsx:65 -> ['purple'] -> className="w-full bg-slate-50 dark:bg-slate-950/80 border border-slate-200 dark:border-slate-800 focus:border-purple-600 dark:focus:border-purple-600 rounded-xl px-4 py-2.5 text-xs text-slate-800 dark:text-slate-100 placeholder-slate-400 dark:placeholder-slate-500 focus:outline-none"
+.\frontend\src\pages\TutorSearch.jsx:74 -> ['purple'] -> className="w-full bg-slate-50 dark:bg-slate-950/80 border border-slate-200 dark:border-slate-800 focus:border-purple-600 dark:focus:border-purple-600 rounded-xl px-4 py-2.5 text-xs text-slate-800 dark:text-slate-100 focus:outline-none"
+.\frontend\src\pages\TutorSearch.jsx:95 -> ['purple'] -> className="w-full bg-slate-50 dark:bg-slate-950/80 border border-slate-200 dark:border-slate-800 focus:border-purple-600 dark:focus:border-purple-600 rounded-xl px-4 py-2.5 text-xs text-slate-800 dark:text-slate-100 placeholder-slate-400 dark:placeholder-slate-500 focus:outline-none"
+.\frontend\src\pages\TutorSearch.jsx:106 -> ['purple'] -> className="w-full bg-slate-50 dark:bg-slate-950/80 border border-slate-200 dark:border-slate-800 focus:border-purple-600 dark:focus:border-purple-600 rounded-xl px-4 py-2.5 text-xs text-slate-800 dark:text-slate-100 focus:outline-none"
+.\frontend\src\pages\TutorSearch.jsx:113 -> ['purple'] -> className="w-full py-3 bg-purple-600 hover:bg-purple-500 dark:bg-purple-600 dark:hover:bg-purple-500 text-white font-bold text-xs rounded-xl shadow-md transition-all"
+.\frontend\src\pages\TutorSearch.jsx:132 -> ['purple'] -> className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-3xl p-6.5 hover:border-purple-600 dark:hover:border-purple-600/50 hover:shadow-lg transition-all flex flex-col justify-between"
+.\frontend\src\pages\TutorSearch.jsx:141 -> ['teal'] -> <span className="text-[9px] bg-teal-100 dark:bg-teal-950 text-teal-700 dark:text-teal-400 border border-teal-200 dark:border-teal-900/60 px-2 py-0.5 rounded font-bold uppercase tracking-wider">
+.\frontend\src\pages\TutorSearch.jsx:146 -> ['purple'] -> <p className="text-xs text-purple-600 dark:text-purple-300 font-bold">{tutor.qualification}</p>
+.\frontend\src\pages\TutorSearch.jsx:148 -> ['amber'] -> <div className="flex items-center gap-1 bg-slate-50 dark:bg-slate-950 px-2 py-1 rounded text-amber-500 dark:text-amber-400 text-xs font-extrabold border border-slate-200 dark:border-slate-800">
+.\frontend\src\pages\TutorSearch.jsx:149 -> ['amber'] -> <Star className="w-3.5 h-3.5 fill-amber-500 dark:fill-amber-400" />
+.\frontend\src\pages\TutorSearch.jsx:189 -> ['purple'] -> className="flex-1 px-3 py-2.5 bg-purple-600 hover:bg-purple-500 dark:bg-purple-600 dark:hover:bg-purple-500 text-white font-bold text-xs rounded-xl transition-all shadow"
+.\frontend\src\pages\Dashboards\AdminDashboard.jsx:103 -> ['rose'] -> <div className="w-3 h-3 rounded-full bg-rose-500 dark:bg-rose-400 animate-pulse" />
+.\frontend\src\pages\Dashboards\AdminDashboard.jsx:112 -> ['amber'] -> {theme === 'dark' ? <Sun className="w-3.5 h-3.5 text-amber-500" /> : <Moon className="w-3.5 h-3.5" />}
+.\frontend\src\pages\Dashboards\AdminDashboard.jsx:124 -> ['rose'] -> ? 'bg-rose-500/10 text-rose-600 dark:text-rose-400 border-l-4 border-rose-600 shadow-sm'
+.\frontend\src\pages\Dashboards\AdminDashboard.jsx:125 -> ['rose'] -> : 'text-zinc-600 dark:text-zinc-400 hover:bg-zinc-200/50 dark:hover:bg-zinc-800/40 hover:text-rose-500'
+.\frontend\src\pages\Dashboards\AdminDashboard.jsx:135 -> ['red'] -> className="w-full flex items-center gap-3 px-4 py-2.5 rounded-xl text-xs font-bold text-red-500 hover:bg-red-500/10 transition-all mt-6 border border-transparent hover:border-red-500/20"
+.\frontend\src\pages\Dashboards\AdminDashboard.jsx:147 -> ['rose', 'red'] -> <div className="bg-gradient-to-r from-rose-600 to-red-500 dark:from-rose-900 dark:to-red-950 text-white p-6 rounded-3xl shadow-md border border-white/5 relative overflow-hidden flex justify-between items-center gap-4">
+.\frontend\src\pages\Dashboards\AdminDashboard.jsx:162 -> ['teal'] -> <div className="bg-teal-500/10 border border-teal-500/30 p-4 rounded-xl text-teal-700 dark:text-teal-400 text-sm">
+.\frontend\src\pages\Dashboards\AdminDashboard.jsx:168 -> ['red'] -> <div className="bg-red-500/10 border border-red-500/30 p-4 rounded-xl text-red-700 dark:text-red-400 text-sm flex gap-2">
+.\frontend\src\pages\Dashboards\AdminDashboard.jsx:187 -> ['rose'] -> <Users className="w-8 h-8 text-rose-600 dark:text-rose-400" />
+.\frontend\src\pages\Dashboards\AdminDashboard.jsx:196 -> ['rose'] -> <UserCheck className="w-8 h-8 text-rose-600 dark:text-rose-400" />
+.\frontend\src\pages\Dashboards\AdminDashboard.jsx:205 -> ['rose'] -> <FileText className="w-8 h-8 text-rose-600 dark:text-rose-400" />
+.\frontend\src\pages\Dashboards\AdminDashboard.jsx:222 -> ['#e11d48'] -> <Line type="monotone" dataKey="users" stroke="#e11d48" strokeWidth={3} activeDot={{ r: 6 }} />
+.\frontend\src\pages\Dashboards\AdminDashboard.jsx:238 -> ['#e11d48'] -> <Bar dataKey="inquiries" fill="#e11d48" radius={[4, 4, 0, 0]} />
+.\frontend\src\pages\Dashboards\AdminDashboard.jsx:264 -> ['red'] -> <button onClick={() => handleVerify(t._id, 'reject')} className="p-1 hover:bg-red-500/10 text-red-500 border border-red-500/30 rounded transition-colors">
+.\frontend\src\pages\Dashboards\AdminDashboard.jsx:267 -> ['emerald'] -> <button onClick={() => handleVerify(t._id, 'approve')} className="p-1 hover:bg-emerald-500/10 text-emerald-600 border border-emerald-500/30 rounded transition-colors">
+.\frontend\src\pages\Dashboards\AdminDashboard.jsx:296 -> ['emerald'] -> ? 'bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 border-emerald-500/20'
+.\frontend\src\pages\Dashboards\AdminDashboard.jsx:297 -> ['rose'] -> : 'bg-rose-500/10 text-rose-600 dark:text-rose-400 border-rose-500/20'
+.\frontend\src\pages\Dashboards\AdminDashboard.jsx:361 -> ['red'] -> className="p-1.5 hover:bg-red-500/10 text-red-500 border border-red-500/20 rounded hover:border-red-500/30 transition-all"
+.\frontend\src\pages\Dashboards\AdminDashboard.jsx:367 -> ['emerald'] -> className="p-1.5 hover:bg-emerald-500/10 text-emerald-600 border border-emerald-500/20 rounded hover:border-emerald-500/30 transition-all"
+.\frontend\src\pages\Dashboards\AdminDashboard.jsx:447 -> ['emerald'] -> ? 'bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 border-emerald-500/20'
+.\frontend\src\pages\Dashboards\AdminDashboard.jsx:448 -> ['rose'] -> : 'bg-rose-500/10 text-rose-600 dark:text-rose-400 border-rose-500/20'
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:173 -> ['emerald'] -> <div className="w-3 h-3 rounded-full bg-emerald-500 animate-pulse" />
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:179 -> ['emerald'] -> className="p-1.5 rounded-lg bg-zinc-100 dark:bg-zinc-950 border border-zinc-200 dark:border-zinc-800 text-zinc-500 dark:text-zinc-400 hover:text-emerald-500 transition-colors"
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:182 -> ['amber'] -> {theme === 'dark' ? <Sun className="w-3.5 h-3.5 text-amber-500" /> : <Moon className="w-3.5 h-3.5" />}
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:194 -> ['emerald'] -> ? 'bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 border-l-4 border-emerald-600 shadow-sm'
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:195 -> ['emerald'] -> : 'text-zinc-600 dark:text-zinc-400 hover:bg-zinc-200/50 dark:hover:bg-zinc-800/40 hover:text-emerald-500'
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:205 -> ['red'] -> className="w-full flex items-center gap-3 px-4 py-2.5 rounded-xl text-xs font-bold text-red-500 hover:bg-red-500/10 transition-all mt-6 border border-transparent hover:border-red-500/20"
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:217 -> ['emerald', 'teal'] -> <div className="bg-gradient-to-r from-emerald-600 to-teal-600 text-white p-6 rounded-3xl shadow-md flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 relative overflow-hidden">
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:221 -> ['emerald'] -> <p className="text-emerald-100 text-xs sm:text-sm mt-1">Track your child's academic progress.</p>
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:223 -> ['emerald'] -> <div className="bg-emerald-800/60 border border-emerald-500 px-4 py-2 rounded-xl text-xs z-10">
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:224 -> ['emerald'] -> <span className="text-emerald-200 mr-2 font-semibold">Child:</span>
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:226 -> ['emerald'] -> <option value="aryan" className="bg-emerald-800 text-white">Aryan Sharma</option>
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:232 -> ['teal'] -> <div className="bg-teal-500/10 border border-teal-500/30 p-4 rounded-xl text-teal-700 dark:text-teal-400 text-sm font-semibold">
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:238 -> ['red'] -> <div className="bg-red-500/10 border border-red-500/30 p-4 rounded-xl text-red-700 dark:text-red-400 text-sm flex gap-2 font-semibold">
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:254 -> ['emerald'] -> <span className="text-lg font-extrabold text-emerald-600 dark:text-emerald-400 block">Good</span>
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:257 -> ['emerald'] -> <TrendingUp className="w-8 h-8 text-emerald-500" />
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:263 -> ['emerald'] -> <span className="text-2xl font-extrabold text-emerald-600 dark:text-emerald-400 block">
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:268 -> ['emerald'] -> <Clock className="w-8 h-8 text-emerald-500" />
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:274 -> ['purple', '#7c3aed'] -> <span className="text-2xl font-extrabold text-[#7c3aed] dark:text-purple-400 block">
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:279 -> ['purple', '#7c3aed'] -> <Award className="w-8 h-8 text-[#7c3aed] dark:text-purple-400" />
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:297 -> ['#10b981'] -> <Line type="monotone" dataKey="score" stroke="#10b981" strokeWidth={3} activeDot={{ r: 6 }} />
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:309 -> ['emerald'] -> { sub: 'Mathematics', score: 85, color: 'bg-emerald-500' },
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:310 -> ['teal'] -> { sub: 'Science', score: 72, color: 'bg-teal-500' },
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:311 -> ['indigo'] -> { sub: 'English', score: 70, color: 'bg-indigo-500' }
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:330 -> ['emerald'] -> <div className="bg-emerald-500/10 border border-emerald-500/30 p-5 rounded-2xl space-y-2">
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:331 -> ['emerald'] -> <span className="text-[10px] font-extrabold text-emerald-600 dark:text-emerald-400 uppercase tracking-wider block">AI Remedial Analysis</span>
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:346 -> ['emerald'] -> <div className="w-12 h-12 rounded-full bg-emerald-100 dark:bg-emerald-950/80 text-emerald-600 dark:text-emerald-400 flex items-center justify-center font-extrabold text-lg select-none">
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:373 -> ['emerald'] -> <span className="text-sm font-extrabold text-emerald-600 dark:text-emerald-400 bg-emerald-500/10 dark:bg-emerald-950/40 border border-emerald-500/20 px-3 py-1 rounded-xl">
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:401 -> ['teal'] -> ? 'bg-teal-50 dark:bg-teal-950/45 text-teal-600 border-teal-200'
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:402 -> ['red'] -> : 'bg-red-50 dark:bg-red-950/45 text-red-600 border-red-200'
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:446 -> ['teal'] -> ? 'bg-teal-50 dark:bg-teal-950/45 text-teal-700 border-teal-200'
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:447 -> ['red'] -> : 'bg-red-50 dark:bg-red-950/45 text-red-600 border-red-200'
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:456 -> ['emerald'] -> className="px-3.5 py-1.5 bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-bold rounded-lg shadow-sm"
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:461 -> ['teal'] -> <span className="text-xs text-teal-600 dark:text-teal-400 font-bold flex justify-end gap-1 items-center">
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:462 -> ['teal'] -> <CreditCard className="w-3.5 h-3.5 text-teal-600" />
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:487 -> ['emerald'] -> <BrainCircuit className="w-5 h-5 text-emerald-500 animate-pulse" />
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:499 -> ['emerald'] -> className="w-full glass-input rounded-xl px-4 py-2.5 text-xs text-zinc-900 dark:text-zinc-100 placeholder-zinc-400 focus:outline-none focus:border-emerald-500"
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:508 -> ['emerald'] -> className="w-full glass-input rounded-xl px-4 py-2.5 text-xs text-zinc-900 dark:text-zinc-100 focus:outline-none focus:border-emerald-500"
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:524 -> ['emerald'] -> className="w-full glass-input rounded-xl px-4 py-2.5 text-xs text-zinc-900 dark:text-zinc-100 placeholder-zinc-400 focus:outline-none focus:border-emerald-500"
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:535 -> ['emerald'] -> className="w-full glass-input rounded-xl px-4 py-2.5 text-xs text-zinc-900 dark:text-zinc-100 placeholder-zinc-400 focus:outline-none focus:border-emerald-500"
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:547 -> ['emerald'] -> className="w-full glass-input rounded-xl px-4 py-2.5 text-xs text-zinc-900 dark:text-zinc-100 placeholder-zinc-400 focus:outline-none focus:border-emerald-500"
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:554 -> ['emerald'] -> className="px-6 py-2.5 bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs rounded-xl shadow-sm transition-all"
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:571 -> ['emerald'] -> <span className="text-[10px] bg-emerald-50 dark:bg-emerald-950/40 border border-emerald-200 dark:border-emerald-900 px-2 py-0.5 rounded text-emerald-700 dark:text-emerald-400 font-extrabold">
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:577 -> ['#7c3aed'] -> <span className="text-[9px] text-[#7c3aed] font-bold uppercase tracking-wider block mb-1">AI Recommendation Context</span>
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:584 -> ['emerald'] -> className="w-full py-2 bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-bold rounded-lg shadow-sm transition-all"
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:607 -> ['emerald'] -> ? 'bg-emerald-500/10 text-emerald-600 border-emerald-200/50 shadow-sm'
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:613 -> ['emerald'] -> ? 'bg-emerald-600 text-white shadow-sm'
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:621 -> ['emerald'] -> selectedContact?.id === c.id ? 'text-emerald-600 dark:text-emerald-400 font-semibold' : 'text-zinc-500'
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:633 -> ['emerald'] -> <div className="w-1.5 h-1.5 rounded-full bg-emerald-600 animate-pulse" />
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:648 -> ['emerald'] -> : 'bg-emerald-600 text-white rounded-tr-none shadow-md font-semibold'
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:662 -> ['emerald'] -> className="flex-1 glass-input rounded-xl px-4 py-2 text-xs focus:outline-none focus:border-emerald-500"
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:666 -> ['emerald'] -> className="px-4 py-2 bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-semibold rounded-xl"
+.\frontend\src\pages\Dashboards\ParentDashboard.jsx:695 -> ['emerald'] -> <span className="font-bold text-emerald-600 dark:text-emerald-400 block text-sm">Parent Account (Active)</span>
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:144 -> ['blue'] -> <div className="w-3 h-3 rounded-full bg-blue-500 animate-pulse" />
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:150 -> ['blue'] -> className="p-1.5 rounded-lg bg-zinc-100 dark:bg-zinc-950 border border-zinc-200 dark:border-zinc-800 text-zinc-500 dark:text-zinc-400 hover:text-blue-500 transition-colors"
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:153 -> ['amber'] -> {theme === 'dark' ? <Sun className="w-3.5 h-3.5 text-amber-500" /> : <Moon className="w-3.5 h-3.5" />}
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:165 -> ['blue'] -> ? 'bg-blue-500/10 text-blue-600 dark:text-blue-400 border-l-4 border-blue-600 shadow-sm'
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:166 -> ['blue'] -> : 'text-zinc-600 dark:text-zinc-400 hover:bg-zinc-200/50 dark:hover:bg-zinc-800/40 hover:text-blue-500'
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:176 -> ['red'] -> className="w-full flex items-center gap-3 px-4 py-2.5 rounded-xl text-xs font-bold text-red-500 hover:bg-red-500 hover:bg-red-500/10 transition-all mt-6 border border-transparent hover:border-red-500/20"
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:188 -> ['blue', 'indigo'] -> <div className="bg-gradient-to-r from-blue-600 to-indigo-600 text-white p-6 rounded-3xl shadow-md relative overflow-hidden">
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:191 -> ['blue'] -> <p className="text-blue-100 text-xs sm:text-sm mt-1">Keep learning and stay consistent.</p>
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:195 -> ['teal'] -> <div className="bg-teal-500/10 border border-teal-500/30 p-4 rounded-xl text-teal-700 dark:text-teal-400 text-sm font-semibold">
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:201 -> ['red'] -> <div className="bg-red-500/10 border border-red-500/30 p-4 rounded-xl text-red-700 dark:text-red-400 text-sm flex gap-2 font-semibold">
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:217 -> ['blue'] -> <span className="text-sm font-extrabold text-blue-600 dark:text-blue-400 block">
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:224 -> ['blue'] -> <Calendar className="w-8 h-8 text-blue-500" />
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:231 -> ['blue'] -> <span className="text-2xl font-extrabold text-blue-600 dark:text-blue-400 block">85%</span>
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:234 -> ['blue'] -> <Clock className="w-8 h-8 text-blue-500" />
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:241 -> ['purple', '#7c3aed'] -> <span className="text-2xl font-extrabold text-[#7c3aed] dark:text-purple-400 block">78%</span>
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:244 -> ['purple', '#7c3aed'] -> <Award className="w-8 h-8 text-[#7c3aed] dark:text-purple-400" />
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:256 -> ['blue'] -> <button onClick={() => setActiveTab('assignments')} className="text-xs text-blue-600 dark:text-blue-400 hover:underline font-extrabold">View All</button>
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:270 -> ['teal'] -> ? 'bg-teal-50 dark:bg-teal-950/40 text-teal-600 border-teal-200 dark:border-teal-900/60'
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:272 -> ['blue'] -> ? 'bg-blue-50 dark:bg-blue-950/40 text-blue-600 border-blue-200 dark:border-blue-900/60'
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:273 -> ['red'] -> : 'bg-red-50 dark:bg-red-950/40 text-red-600 border-red-200 dark:border-red-900/60'
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:289 -> ['blue'] -> <button onClick={() => setActiveTab('tests')} className="text-xs text-blue-600 dark:text-blue-400 hover:underline font-extrabold">View All</button>
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:300 -> ['blue'] -> <span className="text-xs font-extrabold text-blue-600 dark:text-blue-400">
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:328 -> ['blue'] -> <span className="text-[9px] font-bold bg-blue-100 dark:bg-blue-950 text-blue-600 dark:text-blue-400 px-2 py-0.5 rounded uppercase w-fit block">{details.class || 'All levels'}</span>
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:354 -> ['blue'] -> <Calendar className="w-5 h-5 text-blue-500" />
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:367 -> ['blue'] -> <span className="text-xs text-blue-600 dark:text-blue-400 font-extrabold block">{slot.date}</span>
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:406 -> ['teal'] -> ? 'bg-teal-50 dark:bg-teal-950/40 text-teal-600 border-teal-200 dark:border-teal-900/60'
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:408 -> ['blue'] -> ? 'bg-blue-50 dark:bg-blue-950/40 text-blue-600 border-blue-200 dark:border-blue-900/60'
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:409 -> ['red'] -> : 'bg-red-50 dark:bg-red-950/40 text-red-600 border-red-200 dark:border-red-900/60'
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:414 -> ['teal'] -> <span className="block text-[9px] text-teal-600 dark:text-teal-400 font-extrabold mt-1">Score: {ass.obtained_marks}%</span>
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:428 -> ['blue'] -> className="glass-input px-3 py-1.5 text-xs text-zinc-900 dark:text-zinc-100 rounded-lg focus:outline-none w-48 placeholder-zinc-400 focus:border-blue-500 focus:dark:border-blue-400"
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:432 -> ['blue'] -> className="px-3 py-1.5 bg-blue-600 hover:bg-blue-500 text-white text-xs font-semibold rounded-lg shadow-sm"
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:439 -> ['teal'] -> <CheckCircle className="w-3.5 h-3.5 text-teal-500" />
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:461 -> ['blue'] -> <Award className="w-5 h-5 text-blue-500" />
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:471 -> ['blue'] -> <span className="text-sm font-extrabold text-blue-600 dark:text-blue-400 bg-blue-50 dark:bg-blue-950/40 border border-blue-200 dark:border-blue-900/60 px-3 py-1 rounded-xl">
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:504 -> ['blue'] -> ? 'bg-blue-500/10 text-blue-600 border-blue-200/50 shadow-sm'
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:510 -> ['blue'] -> ? 'bg-blue-600 text-white shadow-sm'
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:518 -> ['blue'] -> selectedContact?.id === c.id ? 'text-blue-600 dark:text-blue-400 font-semibold' : 'text-zinc-500'
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:530 -> ['blue'] -> <div className="w-1.5 h-1.5 rounded-full bg-blue-600 animate-pulse" />
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:545 -> ['blue'] -> : 'bg-blue-600 text-white rounded-tr-none shadow-md font-semibold'
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:559 -> ['blue'] -> className="flex-1 glass-input rounded-xl px-4 py-2 text-xs focus:outline-none focus:border-blue-500"
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:563 -> ['blue'] -> className="px-4 py-2 bg-blue-600 hover:bg-blue-500 text-white text-xs font-semibold rounded-xl"
+.\frontend\src\pages\Dashboards\StudentDashboard.jsx:592 -> ['blue'] -> <span className="font-bold text-blue-600 dark:text-blue-400 block text-sm">Student Account (Active)</span>
+.\frontend\src\pages\Dashboards\TutorDashboard.jsx:230 -> ['teal'] -> <div className="w-3 h-3 rounded-full bg-teal-500 dark:bg-teal-400 animate-pulse" />
+.\frontend\src\pages\Dashboards\TutorDashboard.jsx:239 -> ['amber'] -> {theme === 'dark' ? <Sun className="w-3.5 h-3.5 text-amber-500" /> : <Moon className="w-3.5 h-3.5" />}
+.\frontend\src\pages\Dashboards\TutorDashboard.jsx:251 -> ['teal'] -> ? 'bg-teal-500/10 text-teal-600 dark:text-teal-400 border-l-4 border-teal-600 shadow-sm'
+.\frontend\src\pages\Dashboards\TutorDashboard.jsx:252 -> ['teal'] -> : 'text-zinc-600 dark:text-zinc-400 hover:bg-zinc-200/50 dark:hover:bg-zinc-800/40 hover:text-teal-500'
+.\frontend\src\pages\Dashboards\TutorDashboard.jsx:262 -> ['red'] -> className="w-full flex items-center gap-3 px-4 py-2.5 rounded-xl text-xs font-bold text-red-500 hover:bg-red-500/10 transition-all mt-6 border border-transparent hover:border-red-500/20"
+.\frontend\src\pages\Dashboards\TutorDashboard.jsx:274 -> ['emerald', 'teal'] -> <div className="bg-gradient-to-r from-teal-600 to-emerald-600 dark:from-teal-900 dark:to-emerald-950 text-white p-6 rounded-3xl shadow-md border border-white/5 relative overflow-hidden">
+.\frontend\src\pages\Dashboards\TutorDashboard.jsx:286 -> ['teal'] -> <div className="bg-teal-500/10 border border-teal-500/30 p-4 rounded-xl text-teal-700 dark:text-teal-400 text-sm">
+.\frontend\src\pages\Dashboards\TutorDashboard.jsx:292 -> ['red'] -> <div className="bg-red-500/10 border border-red-500/30 p-4 rounded-xl text-red-700 dark:text-red-400 text-sm flex gap-2">
+.\frontend\src\pages\Dashboards\TutorDashboard.jsx:311 -> ['teal'] -> <Users className="w-8 h-8 text-teal-600 dark:text-teal-400" />
+.\frontend\src\pages\Dashboards\TutorDashboard.jsx:322 -> ['teal'] -> <Calendar className="w-8 h-8 text-teal-600 dark:text-teal-400" />
+.\frontend\src\pages\Dashboards\TutorDashboard.jsx:331 -> ['teal'] -> <Wallet className="w-8 h-8 text-teal-600 dark:text-teal-400" />
+.\frontend\src\pages\Dashboards\TutorDashboard.jsx:355 -> ['rose'] -> className="px-3 py-1.5 bg-rose-600 hover:bg-rose-700 text-white text-xs font-bold rounded-lg transition-colors shadow-sm"
+.\frontend\src\pages\Dashboards\TutorDashboard.jsx:361 -> ['emerald'] -> className="px-3 py-1.5 bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-bold rounded-lg shadow-sm transition-colors"
+.\frontend\src\pages\Dashboards\TutorDashboard.jsx:369 -> ['emerald'] -> ? 'bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 border-emerald-500/20'
+.\frontend\src\pages\Dashboards\TutorDashboard.jsx:370 -> ['rose'] -> : 'bg-rose-500/10 text-rose-600 dark:text-rose-400 border-rose-500/20'
