@@ -1,4 +1,4 @@
-# 🎓 SPIDY: Saraswati Tutorial Mumbai
+# 🎓Saraswati Tutorial Mumbai
 ### *AI-Powered Home Tuition & Educational Management System*
 
 Welcome to **SPIDY** (Saraswati Tutorial Mumbai), a modern, full-stack, AI-powered home tutoring marketplace and educational management system. The platform bridges the gap between expert tutors, parents, students, and administrators by providing seamless matching, direct communication, interactive dashboards, progress tracking, and secure invoice payments.
